@@ -128,14 +128,7 @@
         </div>
         <div class="col-md-2 p-3">
           <img src="smkop.png" class="w-100" alt="">
-        </div>
-      </div>
-    </section>
-    
-
-
-    <footer class="bg-tertiary p-4 d-flex justify-content-center">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253840.65638245587!2d106.66470781222485!3d-6.229379603016324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3e945e34b9d%3A0x5371bf0fdad786a2!2sJakarta%2C%20Daerah%20Khusus%20Ibukota%20Jakarta!5e0!3m2!1sid!2sid!4v1718154722613!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.7261643051907!2d106.83440207395124!3d-6.167412560438682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5c894859df1%3A0x7107711c2d6b0651!2sSMK%20Negeri%201%20Jakarta!5e0!3m2!1sid!2sid!4v1718285450339!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>>
     </footer>
 
   <section class="main bg-warning text-dark">
